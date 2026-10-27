@@ -1,0 +1,16 @@
+Language and IDE icons (except RustRover):
+https://github.com/devicons/devicon
+License included in DEVICON-LICENSE.txt.
+The Rust dark-mode icon is recolored for visibility.
+
+RustRover brand icon:
+https://github.com/flathub/com.jetbrains.RustRover/blob/master/com.jetbrains.RustRover.svg
+RustRover and its brand artwork belong to JetBrains.
+
+macOS and Android badges: generated using Shields.io.
+Windows 11 badge: locally drawn label and window symbol.
+Brand marks remain the property of their respective owners.
+
+Header and statistics artwork: created for this profile.
+Visual references: https://github.com/anuraghazra and https://github.com/DenverCoder1
+No personal artwork or identity information from these reference profiles is included.
